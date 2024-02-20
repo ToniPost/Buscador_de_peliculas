@@ -1,0 +1,104 @@
+/* details.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #141414;
+    color: #070707;
+  }
+
+
+  .menu a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .menu a:hover {
+    color: #e50914;
+  }
+  
+  .search-bar {
+    margin-top: 50px;
+  }
+  
+  #search-input {
+    width: 70%;
+    padding: 12px;
+    font-size: 18px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #111;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .menu {
+    display: flex;
+  }
+  nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  #movie-details {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Asegura que los bordes redondeados no se extiendan más allá del contenedor */
+  }
+  
+  #movie-details img {
+    border-radius: 8px; /* Agrega bordes redondeados a la imagen */
+    float: left; /* Hace que la imagen flote a la izquierda */
+    margin-right: 20px; /* Agrega espacio entre la imagen y la descripción */
+  }
+  
+  #movie-details h2 {
+    margin-top: 0; /* Elimina el margen superior del título para alinearlo con la imagen */
+  }
+  
+  #movie-details p {
+    text-align: justify; /* Justifica el texto de la descripción */
+  }
+  

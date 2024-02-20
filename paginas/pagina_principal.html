@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buscador de Películas</title>
+  <link rel="stylesheet" href="principal.css">
+</head>
+<body>
+  <div class="header">
+    <div class="logo">Logo</div>
+    <div class="menu">
+      <a href="#">Películas</a>
+      <a href="#">Series</a>
+      <a href="#">Estrenos</a>
+      <a href="#">TV en vivo</a>
+    </div>
+  </div>
+
+  <div class="container">
+    <h1>Buscador de Películas</h1>
+    <div class="search-bar">
+      <input type="text" id="search-input" placeholder="Buscar películas">
+      <button onclick="searchMovies()">Buscar</button>
+    </div>
+
+    <ul id="movie-list" class="movie-grid"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
