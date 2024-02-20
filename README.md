@@ -29,3 +29,23 @@ Búsqueda Personalizada: Utiliza la barra de búsqueda para encontrar películas
 Detalles Detallados: Haz clic en "Ver Detalles" para sumergirte en la información completa de la película, incluyendo trailers y detalles del reparto.
 
 ¡Sumérgete en el fascinante universo del cine con Movie Explorer! 🚀🎥
+
+<div align="center">
+  <img src="https://github.com/ToniPost/Buscador_de_peliculas/blob/main/Captura%20desde%202024-02-19%2021-23-21.png?raw=true" alt="Fondo">
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/ToniPost/Buscador_de_peliculas/blob/main/Captura%20desde%202024-02-19%2021-24-07.png?raw=true" alt="Fondo">
+</div>
+
+
+
+<div align="center">
+  <img src="https://github.com/ToniPost/Buscador_de_peliculas/blob/main/Captura%20desde%202024-02-19%2021-24-23.png?raw=true" alt="Fondo">
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/ToniPost/Buscador_de_peliculas/blob/main/Captura%20desde%202024-02-19%2021-24-49.png?raw=true" alt="Fondo">
+</div>
